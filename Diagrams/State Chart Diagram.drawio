@@ -1,0 +1,236 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="gyE2eJ826VPjc0M6J32O">
+    <mxGraphModel dx="1246" dy="1204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yg50LxJOTyWZix-ArfEj-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" value="Statechart Diagram - Online Car Rental System" vertex="1">
+          <mxGeometry height="40" width="500" x="330" y="-110" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-4" edge="1" parent="1" source="yg50LxJOTyWZix-ArfEj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="yg50LxJOTyWZix-ArfEj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-2" parent="1" style="ellipse;aspect=fixed;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="50" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-50" edge="1" parent="1" source="yg50LxJOTyWZix-ArfEj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="yg50LxJOTyWZix-ArfEj-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-51" connectable="0" parent="yg50LxJOTyWZix-ArfEj-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="User select login&amp;nbsp;&lt;div&gt;option&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0075" y="3" as="geometry">
+            <mxPoint y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-52" edge="1" parent="1" source="yg50LxJOTyWZix-ArfEj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="yg50LxJOTyWZix-ArfEj-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-58" connectable="0" parent="yg50LxJOTyWZix-ArfEj-52" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="User select register&lt;div&gt;option&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.3277" y="4" as="geometry">
+            <mxPoint x="1" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Idle&#xa;───────────&#xa;Do/ Display login and&#xa;register options" vertex="1">
+          <mxGeometry height="70" width="130" x="140" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-8" edge="1" parent="1" source="yg50LxJOTyWZix-ArfEj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="yg50LxJOTyWZix-ArfEj-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-12" connectable="0" parent="yg50LxJOTyWZix-ArfEj-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="User select&amp;nbsp;&lt;div&gt;a vehicle&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0111" y="-3" as="geometry">
+            <mxPoint x="95" y="-109" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Browsing&#xa;───────────&#xa;Do/ Display available&#xa;vehicle categories" vertex="1">
+          <mxGeometry height="70" width="140" x="990" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-10" edge="1" parent="1" source="yg50LxJOTyWZix-ArfEj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="yg50LxJOTyWZix-ArfEj-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-13" connectable="0" parent="yg50LxJOTyWZix-ArfEj-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="User confirms&lt;div&gt;booking&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0246" y="-1" as="geometry">
+            <mxPoint y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Vehicle selected&#xa;───────────&#xa;Do/ Display vehicle details&#xa;and booking form" vertex="1">
+          <mxGeometry height="70" width="160" x="680" y="297.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-15" edge="1" parent="1" source="yg50LxJOTyWZix-ArfEj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="yg50LxJOTyWZix-ArfEj-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-16" connectable="0" parent="yg50LxJOTyWZix-ArfEj-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Payment&amp;nbsp;&lt;div&gt;Failed&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.01" as="geometry">
+            <mxPoint y="-25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-21" edge="1" parent="1" source="yg50LxJOTyWZix-ArfEj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="yg50LxJOTyWZix-ArfEj-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-22" connectable="0" parent="yg50LxJOTyWZix-ArfEj-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Payment&amp;nbsp;&lt;div&gt;successful&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0909" y="-1" as="geometry">
+            <mxPoint x="31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Payment pending&#xa;───────────&#xa;Do/ Process payment&#xa;request" vertex="1">
+          <mxGeometry height="80" width="120" x="350" y="292.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-18" edge="1" parent="1" source="yg50LxJOTyWZix-ArfEj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yg50LxJOTyWZix-ArfEj-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-19" connectable="0" parent="yg50LxJOTyWZix-ArfEj-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="User retries&lt;div&gt;&amp;nbsp;payment&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1867" y="-3" as="geometry">
+            <mxPoint x="-1" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Payment failed&#xa;───────────&#xa;Do/ Display failed message&#xa;and prompt retry" vertex="1">
+          <mxGeometry height="85" width="130" x="130" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-24" edge="1" parent="1" source="yg50LxJOTyWZix-ArfEj-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="yg50LxJOTyWZix-ArfEj-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-41" connectable="0" parent="yg50LxJOTyWZix-ArfEj-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Booking activated" vertex="1">
+          <mxGeometry relative="1" x="0.046" y="4" as="geometry">
+            <mxPoint x="-8" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Booking confirmed&#xa;───────────&#xa;Do/ Save booking and&#xa;display confirmation" vertex="1">
+          <mxGeometry height="70" width="140" x="340" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-30" edge="1" parent="1" source="yg50LxJOTyWZix-ArfEj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="yg50LxJOTyWZix-ArfEj-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-33" edge="1" parent="1" source="yg50LxJOTyWZix-ArfEj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="yg50LxJOTyWZix-ArfEj-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-40" connectable="0" parent="yg50LxJOTyWZix-ArfEj-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="User requests&lt;div&gt;&amp;nbsp;cancellation&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0527" y="-3" as="geometry">
+            <mxPoint y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Booking active&#xa;───────────&#xa;Do/ Display active&#xa;booking details" vertex="1">
+          <mxGeometry height="70" width="150" x="595" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-38" edge="1" parent="1" source="yg50LxJOTyWZix-ArfEj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="yg50LxJOTyWZix-ArfEj-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-43" connectable="0" parent="yg50LxJOTyWZix-ArfEj-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Outside 48 hours" vertex="1">
+          <mxGeometry relative="1" x="-0.3529" y="-2" as="geometry">
+            <mxPoint x="50" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Cancellation requested&#xa;───────────&#xa;Do/ Verify 48 hour&#xa;cancellation policy" vertex="1">
+          <mxGeometry height="70" width="145" x="360" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-35" edge="1" parent="1" source="yg50LxJOTyWZix-ArfEj-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="yg50LxJOTyWZix-ArfEj-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="575" />
+              <mxPoint x="780" y="575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-44" connectable="0" parent="yg50LxJOTyWZix-ArfEj-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Refund completed" vertex="1">
+          <mxGeometry relative="1" x="0.1678" y="3" as="geometry">
+            <mxPoint x="-10" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Refund processing&#xa;───────────&#xa;Do/ Process refund to&#xa;customer account" vertex="1">
+          <mxGeometry height="70" width="140" x="595" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-27" parent="1" style="ellipse;aspect=fixed;fillColor=none;strokeColor=#000000;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="42" width="42" x="934" y="434" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-29" parent="1" style="ellipse;aspect=fixed;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="940" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-37" edge="1" parent="1" source="yg50LxJOTyWZix-ArfEj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="yg50LxJOTyWZix-ArfEj-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1;verticalAlign=top;" value="Booking cancelled&#xa;───────────&#xa;Do/ Update booking status&#xa;and notify customer" vertex="1">
+          <mxGeometry height="80" width="150" x="840" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-39" edge="1" parent="1" source="yg50LxJOTyWZix-ArfEj-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="yg50LxJOTyWZix-ArfEj-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-45" connectable="0" parent="yg50LxJOTyWZix-ArfEj-39" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Cancellation rejected" vertex="1">
+          <mxGeometry relative="1" x="-0.3949" as="geometry">
+            <mxPoint x="-11" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Refund denied&#xa;───────────&#xa;Do/ Display cannot&#xa;refund message" vertex="1">
+          <mxGeometry height="70" width="180" x="342.5" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-34" edge="1" parent="1" source="yg50LxJOTyWZix-ArfEj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="yg50LxJOTyWZix-ArfEj-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-42" connectable="0" parent="yg50LxJOTyWZix-ArfEj-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Within&amp;nbsp;&lt;div&gt;48 hours&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.251" y="1" as="geometry">
+            <mxPoint x="11" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-55" edge="1" parent="1" source="yg50LxJOTyWZix-ArfEj-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="yg50LxJOTyWZix-ArfEj-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-59" connectable="0" parent="yg50LxJOTyWZix-ArfEj-55" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="User enter login&lt;div&gt;information&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0588" y="1" as="geometry">
+            <mxPoint y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Login&lt;br&gt;───────────&lt;br&gt;Do/ Prompt user to enter login information" vertex="1">
+          <mxGeometry height="80" width="130" x="380" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-56" edge="1" parent="1" source="yg50LxJOTyWZix-ArfEj-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="yg50LxJOTyWZix-ArfEj-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-60" connectable="0" parent="yg50LxJOTyWZix-ArfEj-56" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="User enter personal&amp;nbsp;&lt;div&gt;details&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2549" y="4" as="geometry">
+            <mxPoint x="15" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Register&lt;br&gt;───────────&lt;br&gt;Do/ Prompt user to enter personal information for registration" vertex="1">
+          <mxGeometry height="100" width="130" x="380" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-62" edge="1" parent="1" source="yg50LxJOTyWZix-ArfEj-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yg50LxJOTyWZix-ArfEj-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-66" connectable="0" parent="yg50LxJOTyWZix-ArfEj-62" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Wrong login&lt;div&gt;information entered&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1608" y="2" as="geometry">
+            <mxPoint x="-2" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-64" edge="1" parent="1" source="yg50LxJOTyWZix-ArfEj-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yg50LxJOTyWZix-ArfEj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-74" connectable="0" parent="yg50LxJOTyWZix-ArfEj-64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="User used correct login information" vertex="1">
+          <mxGeometry relative="1" x="-0.1754" y="-2" as="geometry">
+            <mxPoint x="11" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Verify&amp;nbsp;&lt;div&gt;l&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ogin&lt;/span&gt;&lt;div&gt;───────────&lt;br&gt;Do/ Verify login information&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="130" x="630" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-65" edge="1" parent="1" source="yg50LxJOTyWZix-ArfEj-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="yg50LxJOTyWZix-ArfEj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-75" connectable="0" parent="yg50LxJOTyWZix-ArfEj-65" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="User used correct personal details" vertex="1">
+          <mxGeometry relative="1" x="-0.1378" y="3" as="geometry">
+            <mxPoint x="1" y="23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-72" edge="1" parent="1" source="yg50LxJOTyWZix-ArfEj-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="yg50LxJOTyWZix-ArfEj-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-73" connectable="0" parent="yg50LxJOTyWZix-ArfEj-72" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Wrong personal&lt;div&gt;details entered&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0998" y="-2" as="geometry">
+            <mxPoint x="-5" y="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Verify&lt;div&gt;details&lt;br&gt;───────────&lt;br&gt;Do/ Verify personal details&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="130" x="630" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yg50LxJOTyWZix-ArfEj-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Message&lt;br&gt;&lt;div&gt;&lt;div&gt;───────────&lt;br&gt;Do/ Display error message&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="130" x="820" y="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
